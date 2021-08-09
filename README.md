@@ -1,2 +1,4 @@
 # design-pattern
-新增观察者模式和建造者模式
+## observer -> 观察者模式
+## build -> 建造者模式
+## composite -> 组合模式
